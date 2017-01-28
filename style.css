@@ -13,12 +13,6 @@ div.navbar-collapse {
   padding-right: 0;
 }
 
-/*@media screen and (max-width: 768px) {*/
-  /*div.navbar-collapse {*/
-    /*padding-left: 15px;*/
-  /*}*/
-/*}*/
-
 .nav > li > a {
   padding: 10px 10px 10px 15px;
 }
