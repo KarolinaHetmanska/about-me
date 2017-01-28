@@ -1,10 +1,24 @@
-.my-navbar {
-  width: 100%;
-  background-color: red;
-  height: 20px;
-  margin: auto 0px;
+
+.nav > li > a {
+  display: inline-block;
 }
 
-.nav>li>a {
-  display: inline-block ;
+a.navbar-brand {
+  padding: 15px 15px;
+  display: block;
+}
+
+div.navbar-collapse {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+/*@media screen and (max-width: 768px) {*/
+  /*div.navbar-collapse {*/
+    /*padding-left: 15px;*/
+  /*}*/
+/*}*/
+
+.nav > li > a {
+  padding: 10px 10px 10px 15px;
 }
